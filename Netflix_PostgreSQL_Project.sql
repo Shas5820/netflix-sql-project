@@ -1,6 +1,6 @@
 /* 
    NETFLIX CONTENT ANALYSIS
-   Author: Radha Singh
+   Author: Shashank Gupta
    Database: PostgreSQL
    Purpose: SQL-based analysis of Netflix content catalog
 */
